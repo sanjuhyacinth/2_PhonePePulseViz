@@ -1,4 +1,13 @@
 # 2_PhonePe-Pulse-Data-Visualization-and-Exploration
+This repository consists of all the analysis done for the Phonepe Pulse project.
+
+## What is PhonePe:
+PhonePe is a mobile payment platform using which you can transfer money using UPI, recharge phone numbers, pay utility bills, etc. PhonePe works on the Unified Payment Interface (UPI) system and all you need is to feed in your bank account details and create a UPI ID.
+To know more about the app, [Click here](https://www.phonepe.com/)
+
+## What is PhonePe Pulse:
+The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers. With over 45% market share, PhonePe's data is representative of the country's digital payment habits. The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews.
+Know more about [PhonePe Pulse](https://www.phonepe.com/pulse/)
 
 https://github.com/PhonePe/pulse.git
 
