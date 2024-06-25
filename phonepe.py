@@ -8,10 +8,10 @@ import mysql.connector
 
 # MySQL connection:
 conn = mysql.connector.connect(
-        host="127.0.0.1",
+        host="hostname",
         user="root",
-        password="Sanc3098",
-        database="phonepe"
+        password="password",
+        database="dbname"
     )
 mycursor = conn.cursor()
 
