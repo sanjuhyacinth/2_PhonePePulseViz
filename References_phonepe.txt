@@ -1,0 +1,17 @@
+Refernce materials and gif links Used for the project - PhonePe Pulse
+
+1. PhonePe gif: 
+https://1.bp.blogspot.com/-w5bZ0nrUWF8/XmMlpd94X7I/AAAAAAAAAaU/qnZx23SsovkwMfxv8O8n3cgdkH3OWOSygCLcBGAsYHQ/s400/1_E8Ys7gfVryzMjtpYy9Z6gw.gif
+
+2. PhonePe Pulse gif:
+https://www.phonepe.com/pulsestatic/pulse/static/pulse-a7eb70ef6c6c2c5a9d1b3c3fd66752f5.gif
+
+3. Map Visualization with plotly:
+https://medium.com/@sanghviyash7/44e8ad419b97
+
+4. Colourscale reference:
+https://plotly.com/python/builtin-colorscales/
+
+5. Plotly Reference:
+All charts: https://plotly.com/python/plotly-express/
+Choropleth: https://plotly.com/python/mapbox-county-choropleth/
