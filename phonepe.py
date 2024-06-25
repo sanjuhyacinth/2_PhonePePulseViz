@@ -32,7 +32,7 @@ selected = option_menu(None,
                         styles={"container": {"width": "100%","border": "2px ridge #000000","background-color": "#50277C"},
                                 "icon": {"color": "#F4F0FE", "font-size": "20px"}})
 
-#setup the detail for the option 'HOME'
+#setup the detail for the option 'ABOUT'
 if selected == "ABOUT":
         st.subheader(":violet[Project Title :]")
         st.markdown("Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly",unsafe_allow_html=True)
@@ -54,7 +54,7 @@ if selected == "ABOUT":
         st.markdown('##### GitHub : https://github.com/sanjuhyacinth')
 
 
-#setup the detail for the option 'ABOUT'
+#setup the detail for the option 'HOME'
 if selected =="HOME":
         c1,c2=st.columns([1.5,1],gap="large")
         with c1:
@@ -100,7 +100,7 @@ if selected =="HOME":
                 st.markdown("##### :violet[This project is inspired by PhonePe Pulse :]")
                 st.link_button('Phonepe Pulse - The beat of progress','https://www.phonepe.com/pulse/')
 
-#setup details for the option "Geo Visualization"
+#setup details for the option "TOP VISUALS"
 if selected =="TOP VISUALS":
         
         def ind_geo():
